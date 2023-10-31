@@ -1,7 +1,5 @@
 /*
  *  
- * Write the DogWalker program inside the main method
- * according to the assignment description.
  * 
  * To compile:
  *        javac DogWalker.java
